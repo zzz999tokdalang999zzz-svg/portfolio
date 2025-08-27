@@ -3,9 +3,6 @@ vendor/
 composer.phar
 composer.lock
 
-# Configuration files with sensitive data
-config/config.php
-
 # Log files
 *.log
 
