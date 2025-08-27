@@ -1,0 +1,24 @@
+#body-about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    padding: 20px;
+}
+
+#img {
+    margin-top: 20px;
+}
+
+#img img {
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+}
+
+#about {
+    margin-top: 20px;
+    max-width: 600px;
+}
